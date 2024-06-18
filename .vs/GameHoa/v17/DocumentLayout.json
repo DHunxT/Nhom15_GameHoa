@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Game\\BTL\\GameHoa\\GameHoa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1873A590-9349-AA1B-9E05-FA1CFE71C2AD}|Assembly-CSharp.csproj|d:\\game\\btl\\gamehoa\\gamehoa\\assets\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1873A590-9349-AA1B-9E05-FA1CFE71C2AD}|Assembly-CSharp.csproj|solutionrelative:assets\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1873A590-9349-AA1B-9E05-FA1CFE71C2AD}|Assembly-CSharp.csproj|d:\\game\\btl\\gamehoa\\gamehoa\\assets\\script\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1873A590-9349-AA1B-9E05-FA1CFE71C2AD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1873A590-9349-AA1B-9E05-FA1CFE71C2AD}|Assembly-CSharp.csproj|D:\\Game\\BTL\\GameHoa\\GameHoa\\assets\\script\\player\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1873A590-9349-AA1B-9E05-FA1CFE71C2AD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1873A590-9349-AA1B-9E05-FA1CFE71C2AD}|Assembly-CSharp.csproj|D:\\Game\\BTL\\GameHoa\\GameHoa\\assets\\script\\misc\\flash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1873A590-9349-AA1B-9E05-FA1CFE71C2AD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\misc\\flash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1873A590-9349-AA1B-9E05-FA1CFE71C2AD}|Assembly-CSharp.csproj|D:\\Game\\BTL\\GameHoa\\GameHoa\\assets\\script\\player\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1873A590-9349-AA1B-9E05-FA1CFE71C2AD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1873A590-9349-AA1B-9E05-FA1CFE71C2AD}|Assembly-CSharp.csproj|D:\\Game\\BTL\\GameHoa\\GameHoa\\assets\\script\\player\\stamina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1873A590-9349-AA1B-9E05-FA1CFE71C2AD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\stamina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UiController.cs",
+              "DocumentMoniker": "D:\\Game\\BTL\\GameHoa\\GameHoa\\Assets\\UiController.cs",
+              "RelativeDocumentMoniker": "Assets\\UiController.cs",
+              "ToolTip": "D:\\Game\\BTL\\GameHoa\\GameHoa\\Assets\\UiController.cs",
+              "RelativeToolTip": "Assets\\UiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T04:08:04.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Flash.cs",
+              "DocumentMoniker": "D:\\Game\\BTL\\GameHoa\\GameHoa\\Assets\\Script\\Misc\\Flash.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Misc\\Flash.cs",
+              "ToolTip": "D:\\Game\\BTL\\GameHoa\\GameHoa\\Assets\\Script\\Misc\\Flash.cs",
+              "RelativeToolTip": "Assets\\Script\\Misc\\Flash.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowB4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T10:27:30.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "D:\\Game\\BTL\\GameHoa\\GameHoa\\Assets\\Script\\Player\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\Projectile.cs",
+              "ToolTip": "D:\\Game\\BTL\\GameHoa\\GameHoa\\Assets\\Script\\Player\\Projectile.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\Projectile.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwBYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T10:17:37.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sword.cs",
+              "DocumentMoniker": "D:\\Game\\BTL\\GameHoa\\GameHoa\\Assets\\Script\\Player\\Sword.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\Sword.cs",
+              "ToolTip": "D:\\Game\\BTL\\GameHoa\\GameHoa\\Assets\\Script\\Player\\Sword.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\Sword.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAkwDoAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T10:16:21.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Stamina.cs",
+              "DocumentMoniker": "D:\\Game\\BTL\\GameHoa\\GameHoa\\Assets\\Script\\Player\\Stamina.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\Stamina.cs",
+              "ToolTip": "D:\\Game\\BTL\\GameHoa\\GameHoa\\Assets\\Script\\Player\\Stamina.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\Stamina.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T10:16:06.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\Game\\BTL\\GameHoa\\GameHoa\\Assets\\Script\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\AudioManager.cs",
+              "ToolTip": "D:\\Game\\BTL\\GameHoa\\GameHoa\\Assets\\Script\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Script\\AudioManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T10:14:08.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

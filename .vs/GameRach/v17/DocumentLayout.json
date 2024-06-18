@@ -1,0 +1,450 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Game\\GameRach (4)\\GameRach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7E5A15-6970-AF9B-5924-BD4A561F60CB}|Assembly-CSharp.csproj|D:\\Game\\GameRach (4)\\GameRach\\assets\\script\\enemies\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7E5A15-6970-AF9B-5924-BD4A561F60CB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemies\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7E5A15-6970-AF9B-5924-BD4A561F60CB}|Assembly-CSharp.csproj|d:\\game\\gamerach (4)\\gamerach\\assets\\script\\enemies\\random idle animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7E5A15-6970-AF9B-5924-BD4A561F60CB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemies\\random idle animation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7E5A15-6970-AF9B-5924-BD4A561F60CB}|Assembly-CSharp.csproj|d:\\game\\gamerach (4)\\gamerach\\assets\\script\\enemies\\ienemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7E5A15-6970-AF9B-5924-BD4A561F60CB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemies\\ienemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7E5A15-6970-AF9B-5924-BD4A561F60CB}|Assembly-CSharp.csproj|d:\\game\\gamerach (4)\\gamerach\\assets\\script\\misc\\flash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7E5A15-6970-AF9B-5924-BD4A561F60CB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\misc\\flash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7E5A15-6970-AF9B-5924-BD4A561F60CB}|Assembly-CSharp.csproj|d:\\game\\gamerach (4)\\gamerach\\assets\\script\\misc\\knockback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7E5A15-6970-AF9B-5924-BD4A561F60CB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\misc\\knockback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7E5A15-6970-AF9B-5924-BD4A561F60CB}|Assembly-CSharp.csproj|d:\\game\\gamerach (4)\\gamerach\\assets\\script\\enemies\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7E5A15-6970-AF9B-5924-BD4A561F60CB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemies\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7E5A15-6970-AF9B-5924-BD4A561F60CB}|Assembly-CSharp.csproj|D:\\Game\\GameRach (4)\\GameRach\\assets\\script\\enemies\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7E5A15-6970-AF9B-5924-BD4A561F60CB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemies\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7E5A15-6970-AF9B-5924-BD4A561F60CB}|Assembly-CSharp.csproj|D:\\Game\\GameRach (4)\\GameRach\\assets\\script\\enemies\\enemypathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7E5A15-6970-AF9B-5924-BD4A561F60CB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemies\\enemypathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7E5A15-6970-AF9B-5924-BD4A561F60CB}|Assembly-CSharp.csproj|d:\\game\\gamerach (4)\\gamerach\\assets\\script\\pickupspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7E5A15-6970-AF9B-5924-BD4A561F60CB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pickupspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7E5A15-6970-AF9B-5924-BD4A561F60CB}|Assembly-CSharp.csproj|D:\\Game\\GameRach (4)\\GameRach\\assets\\script\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7E5A15-6970-AF9B-5924-BD4A561F60CB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7E5A15-6970-AF9B-5924-BD4A561F60CB}|Assembly-CSharp.csproj|d:\\game\\gamerach (4)\\gamerach\\assets\\script\\ui\\menuscript\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7E5A15-6970-AF9B-5924-BD4A561F60CB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\menuscript\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|e:\\h\u1ECDc li\u1EC7u\\gamedeveloper\\btl\\gamerach (2)\\gamerach\\assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7E5A15-6970-AF9B-5924-BD4A561F60CB}|Assembly-CSharp.csproj|D:\\Game\\GameRach (4)\\GameRach\\assets\\script\\enemies\\grapelandsplatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7E5A15-6970-AF9B-5924-BD4A561F60CB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemies\\grapelandsplatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7E5A15-6970-AF9B-5924-BD4A561F60CB}|Assembly-CSharp.csproj|D:\\Game\\GameRach (4)\\GameRach\\assets\\script\\enemies\\grapeprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7E5A15-6970-AF9B-5924-BD4A561F60CB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemies\\grapeprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7E5A15-6970-AF9B-5924-BD4A561F60CB}|Assembly-CSharp.csproj|D:\\Game\\GameRach (4)\\GameRach\\assets\\script\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7E5A15-6970-AF9B-5924-BD4A561F60CB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7E5A15-6970-AF9B-5924-BD4A561F60CB}|Assembly-CSharp.csproj|D:\\Game\\GameRach (4)\\GameRach\\assets\\script\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7E5A15-6970-AF9B-5924-BD4A561F60CB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7E5A15-6970-AF9B-5924-BD4A561F60CB}|Assembly-CSharp.csproj|D:\\Game\\GameRach (4)\\GameRach\\assets\\script\\player\\stamina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7E5A15-6970-AF9B-5924-BD4A561F60CB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\stamina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7E5A15-6970-AF9B-5924-BD4A561F60CB}|Assembly-CSharp.csproj|D:\\Game\\GameRach (4)\\GameRach\\assets\\script\\misc\\economymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7E5A15-6970-AF9B-5924-BD4A561F60CB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\misc\\economymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7E5A15-6970-AF9B-5924-BD4A561F60CB}|Assembly-CSharp.csproj|D:\\Game\\GameRach (4)\\GameRach\\assets\\script\\player\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7E5A15-6970-AF9B-5924-BD4A561F60CB}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Game\\GameRach\\Assets\\Script\\AreaEntrance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Game\\GameRach\\Assets\\Script\\CameraController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Game\\GameRach\\Assets\\Script\\BaseSingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Game\\GameRach\\Assets\\Script\\SceneManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Game\\GameRach\\Assets\\Script\\Singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Game\\GameRach\\Assets\\Script\\AreaExit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\H\u1ECDc li\u1EC7u\\gameDeveloper\\GameRach\\Assets\\Script\\Grape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Random Idle Animation.cs",
+              "DocumentMoniker": "D:\\Game\\GameRach (4)\\GameRach\\Assets\\Script\\Enemies\\Random Idle Animation.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemies\\Random Idle Animation.cs",
+              "ToolTip": "D:\\Game\\GameRach (4)\\GameRach\\Assets\\Script\\Enemies\\Random Idle Animation.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemies\\Random Idle Animation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T04:26:35.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEnemy.cs",
+              "DocumentMoniker": "D:\\Game\\GameRach (4)\\GameRach\\Assets\\Script\\Enemies\\IEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemies\\IEnemy.cs",
+              "ToolTip": "D:\\Game\\GameRach (4)\\GameRach\\Assets\\Script\\Enemies\\IEnemy.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemies\\IEnemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T04:26:18.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Flash.cs",
+              "DocumentMoniker": "D:\\Game\\GameRach (4)\\GameRach\\Assets\\Script\\Misc\\Flash.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Misc\\Flash.cs",
+              "ToolTip": "D:\\Game\\GameRach (4)\\GameRach\\Assets\\Script\\Misc\\Flash.cs",
+              "RelativeToolTip": "Assets\\Script\\Misc\\Flash.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T04:25:10.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Knockback.cs",
+              "DocumentMoniker": "D:\\Game\\GameRach (4)\\GameRach\\Assets\\Script\\Misc\\Knockback.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Misc\\Knockback.cs",
+              "ToolTip": "D:\\Game\\GameRach (4)\\GameRach\\Assets\\Script\\Misc\\Knockback.cs",
+              "RelativeToolTip": "Assets\\Script\\Misc\\Knockback.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T04:23:00.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemyHealth.cs",
+              "DocumentMoniker": "D:\\Game\\GameRach (4)\\GameRach\\Assets\\Script\\Enemies\\EnemyHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemies\\EnemyHealth.cs",
+              "ToolTip": "D:\\Game\\GameRach (4)\\GameRach\\Assets\\Script\\Enemies\\EnemyHealth.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemies\\EnemyHealth.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T04:22:23.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PickupSpawner.cs",
+              "DocumentMoniker": "D:\\Game\\GameRach (4)\\GameRach\\Assets\\Script\\PickupSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PickupSpawner.cs",
+              "ToolTip": "D:\\Game\\GameRach (4)\\GameRach\\Assets\\Script\\PickupSpawner.cs",
+              "RelativeToolTip": "Assets\\Script\\PickupSpawner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T03:53:55.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Stamina.cs",
+              "DocumentMoniker": "D:\\Game\\GameRach (4)\\GameRach\\Assets\\Script\\Player\\Stamina.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\Stamina.cs",
+              "ToolTip": "D:\\Game\\GameRach (4)\\GameRach\\Assets\\Script\\Player\\Stamina.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\Stamina.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T16:24:20.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Sword.cs",
+              "DocumentMoniker": "D:\\Game\\GameRach (4)\\GameRach\\Assets\\Script\\Player\\Sword.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\Sword.cs",
+              "ToolTip": "D:\\Game\\GameRach (4)\\GameRach\\Assets\\Script\\Player\\Sword.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\Sword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:48:03.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\Game\\GameRach (4)\\GameRach\\Assets\\Script\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\PlayerController.cs",
+              "ToolTip": "D:\\Game\\GameRach (4)\\GameRach\\Assets\\Script\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\PlayerController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwEoAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:24:02.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pickup.cs",
+              "DocumentMoniker": "D:\\Game\\GameRach (4)\\GameRach\\Assets\\Script\\Pickup.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Pickup.cs",
+              "ToolTip": "D:\\Game\\GameRach (4)\\GameRach\\Assets\\Script\\Pickup.cs",
+              "RelativeToolTip": "Assets\\Script\\Pickup.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAcwGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:59:42.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shooter.cs",
+              "DocumentMoniker": "D:\\Game\\GameRach (4)\\GameRach\\Assets\\Script\\Enemies\\Shooter.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemies\\Shooter.cs",
+              "ToolTip": "D:\\Game\\GameRach (4)\\GameRach\\Assets\\Script\\Enemies\\Shooter.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemies\\Shooter.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAswF4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T14:37:07.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GrapeProjectile.cs",
+              "DocumentMoniker": "D:\\Game\\GameRach (4)\\GameRach\\Assets\\Script\\Enemies\\GrapeProjectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemies\\GrapeProjectile.cs",
+              "ToolTip": "D:\\Game\\GameRach (4)\\GameRach\\Assets\\Script\\Enemies\\GrapeProjectile.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemies\\GrapeProjectile.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T14:36:07.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "E:\\H\u1ECDc li\u1EC7u\\gameDeveloper\\BTL\\GameRach (2)\\GameRach\\Assets\\MainMenu.cs",
+              "ToolTip": "E:\\H\u1ECDc li\u1EC7u\\gameDeveloper\\BTL\\GameRach (2)\\GameRach\\Assets\\MainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:12:22.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "D:\\Game\\GameRach (4)\\GameRach\\Assets\\Script\\Player\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\PlayerHealth.cs",
+              "ToolTip": "D:\\Game\\GameRach (4)\\GameRach\\Assets\\Script\\Player\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\PlayerHealth.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAA5wFEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T10:13:11.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Grape.cs",
+              "DocumentMoniker": "E:\\H\u1ECDc li\u1EC7u\\gameDeveloper\\GameRach\\Assets\\Script\\Grape.cs",
+              "ToolTip": "E:\\H\u1ECDc li\u1EC7u\\gameDeveloper\\GameRach\\Assets\\Script\\Grape.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwCQAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T06:05:27.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "D:\\Game\\GameRach (4)\\GameRach\\Assets\\Script\\Enemies\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemies\\EnemyAI.cs",
+              "ToolTip": "D:\\Game\\GameRach (4)\\GameRach\\Assets\\Script\\Enemies\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemies\\EnemyAI.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAiwEoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T06:13:13.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnemyPathfinding.cs",
+              "DocumentMoniker": "D:\\Game\\GameRach (4)\\GameRach\\Assets\\Script\\Enemies\\EnemyPathfinding.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemies\\EnemyPathfinding.cs",
+              "ToolTip": "D:\\Game\\GameRach (4)\\GameRach\\Assets\\Script\\Enemies\\EnemyPathfinding.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemies\\EnemyPathfinding.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T06:14:02.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GrapeLandSplatter.cs",
+              "DocumentMoniker": "D:\\Game\\GameRach (4)\\GameRach\\Assets\\Script\\Enemies\\GrapeLandSplatter.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Enemies\\GrapeLandSplatter.cs",
+              "ToolTip": "D:\\Game\\GameRach (4)\\GameRach\\Assets\\Script\\Enemies\\GrapeLandSplatter.cs",
+              "RelativeToolTip": "Assets\\Script\\Enemies\\GrapeLandSplatter.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T14:54:04.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "D:\\Game\\GameRach\\Assets\\Script\\CameraController.cs",
+              "RelativeDocumentMoniker": "..\\..\\GameRach\\Assets\\Script\\CameraController.cs",
+              "ToolTip": "D:\\Game\\GameRach\\Assets\\Script\\CameraController.cs",
+              "RelativeToolTip": "..\\..\\GameRach\\Assets\\Script\\CameraController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T03:47:46.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseSingleton.cs",
+              "DocumentMoniker": "D:\\Game\\GameRach\\Assets\\Script\\BaseSingleton.cs",
+              "RelativeDocumentMoniker": "..\\..\\GameRach\\Assets\\Script\\BaseSingleton.cs",
+              "ToolTip": "D:\\Game\\GameRach\\Assets\\Script\\BaseSingleton.cs",
+              "RelativeToolTip": "..\\..\\GameRach\\Assets\\Script\\BaseSingleton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T03:47:49.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "D:\\Game\\GameRach (4)\\GameRach\\Assets\\Script\\UI\\MenuScript\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UI\\MenuScript\\PauseMenu.cs",
+              "ToolTip": "D:\\Game\\GameRach (4)\\GameRach\\Assets\\Script\\UI\\MenuScript\\PauseMenu.cs",
+              "RelativeToolTip": "Assets\\Script\\UI\\MenuScript\\PauseMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T20:34:03.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EconomyManager.cs",
+              "DocumentMoniker": "D:\\Game\\GameRach (4)\\GameRach\\Assets\\Script\\Misc\\EconomyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Misc\\EconomyManager.cs",
+              "ToolTip": "D:\\Game\\GameRach (4)\\GameRach\\Assets\\Script\\Misc\\EconomyManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Misc\\EconomyManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:51:54.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AreaEntrance.cs",
+              "DocumentMoniker": "D:\\Game\\GameRach\\Assets\\Script\\AreaEntrance.cs",
+              "RelativeDocumentMoniker": "..\\..\\GameRach\\Assets\\Script\\AreaEntrance.cs",
+              "ToolTip": "D:\\Game\\GameRach\\Assets\\Script\\AreaEntrance.cs",
+              "RelativeToolTip": "..\\..\\GameRach\\Assets\\Script\\AreaEntrance.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T03:12:29.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SceneManagement.cs",
+              "DocumentMoniker": "D:\\Game\\GameRach\\Assets\\Script\\SceneManagement.cs",
+              "RelativeDocumentMoniker": "..\\..\\GameRach\\Assets\\Script\\SceneManagement.cs",
+              "ToolTip": "D:\\Game\\GameRach\\Assets\\Script\\SceneManagement.cs",
+              "RelativeToolTip": "..\\..\\GameRach\\Assets\\Script\\SceneManagement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T03:12:31.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "D:\\Game\\GameRach\\Assets\\Script\\Singleton.cs",
+              "RelativeDocumentMoniker": "..\\..\\GameRach\\Assets\\Script\\Singleton.cs",
+              "ToolTip": "D:\\Game\\GameRach\\Assets\\Script\\Singleton.cs",
+              "RelativeToolTip": "..\\..\\GameRach\\Assets\\Script\\Singleton.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T03:12:26.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AreaExit.cs",
+              "DocumentMoniker": "D:\\Game\\GameRach\\Assets\\Script\\AreaExit.cs",
+              "RelativeDocumentMoniker": "..\\..\\GameRach\\Assets\\Script\\AreaExit.cs",
+              "ToolTip": "D:\\Game\\GameRach\\Assets\\Script\\AreaExit.cs",
+              "RelativeToolTip": "..\\..\\GameRach\\Assets\\Script\\AreaExit.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwBwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T03:06:28.627Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
